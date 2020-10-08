@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariane011&layout=compact&theme=white)
 
 ### Sobre mim
-Sou desenvolvedora Front-End e trabalho com as tecnologias JavaScript, React, CSS3 e HTML5. Também tenho contato com Python e Node, no que se trata a back-end e tenho interesse em DevOps utilizando GitLab, Docker, 
+Sou desenvolvedora Front-End e trabalho com as tecnologias JavaScript, React, CSS3 e HTML5. Também tenho contato com Python e Node, no que se trata a back-end e tenho interesse em DevOps utilizando GitLab, Docker e ferramentas de monitoramento.
 
 🎓 Gestão da Tecnologia da informação, DevOps Foundation, React Bootcamp (WoMakersCode) e Alura.
 
