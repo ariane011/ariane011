@@ -1,16 +1,16 @@
-### Hi there 👋
+# Olá, Meu nome é Ariane! :D 
 
-<!--
-**ariane011/ariane011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ariane011)](https://github.com/leticiacamposs2)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agsousa/)](https://www.linkedin.com/in/agsousa/) 
 
-Here are some ideas to get you started:
+![Ariane Sousa' Github Stats](https://github-readme-stats.vercel.app/api?username=ariane011&show_icons=true&theme=tokyowhite)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariane011&layout=compact&theme=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Sobre mim
+Sou desenvolvedora Front-End e trabalho com as tecnologias JavaScript, React, CSS3 e HTML5. Também tenho contato com Python e Node, no que se trata a back-end e tenho interesse em DevOps utilizando GitLab, Docker, 
+
+🎓 Gestão da Tecnologia da informação, DevOps Foundation, React Bootcamp (WoMakersCode) e Alura.
+
+💼 Trabalho como Dev Full Stack na TruckPad
+
+🚀 [Meu site](https://ariane011.github.io/portfolio/) 
