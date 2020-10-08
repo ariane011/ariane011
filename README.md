@@ -1,6 +1,6 @@
 # Olá, Meu nome é Ariane! :D 
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ariane011)](https://github.com/leticiacamposs2)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/ariane011)](https://github.com/ariane011)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/agsousa/)](https://www.linkedin.com/in/agsousa/) 
 
 ![Ariane Sousa' Github Stats](https://github-readme-stats.vercel.app/api?username=ariane011&show_icons=true&theme=tokyowhite)
