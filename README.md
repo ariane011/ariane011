@@ -12,5 +12,3 @@ Sou desenvolvedora Front-End e trabalho com as tecnologias JavaScript, React, CS
 🎓 Gestão da Tecnologia da informação, DevOps Foundation, React Bootcamp (WoMakersCode) e Alura.
 
 💼 Trabalho como Dev Front-End na TruckPad
-
-🚀 [Meu site](https://ariane011.github.io/portfolio/) 
