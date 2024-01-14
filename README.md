@@ -11,4 +11,4 @@ Sou desenvolvedora Front-End e trabalho com as tecnologias JavaScript, React, CS
 
 🎓 Gestão da Tecnologia da informação, React Bootcamp (WoMakersCode), UX Design (Estação hack) e Alura.
 
-💼 Trabalho como Front-End Freelancer
+💼 Trabalho como Front-End 
