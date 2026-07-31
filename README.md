@@ -7,7 +7,7 @@ Tenho experiência com desenvolvimento de aplicações web, regras de negócio, 
 Também tenho experiência anterior em **Qualidade de Software** e formação complementar em **UX Design**.
 
 ### 🛠️ Tecnologias
-React • TypeScript • JavaScript • Redux Toolkit • React Hook Form • Zod • Jest • Git • Azure DevOps
+React • TypeScript • JavaScript • React Hooks • Redux Toolkit • React Hook Form • Zod • Jest • Axios • Rest API • Git • Azure DevOps
 
 ### 🤖 Atualmente estudando
 Front-End, Arquitetura de Software e Inteligência Artificial aplicada ao desenvolvimento.
