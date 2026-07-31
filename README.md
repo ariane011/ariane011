@@ -16,7 +16,7 @@ Também tenho background em Qualidade de Software e UX Design.
 const ariane = {
   role: "Front-End Developer",
   focus: ["React", "TypeScript", "User Experience"],
-  stack: ["Redux Toolkit", "React Hook Form", "Zod", "Jest"],
+  stack: ["React", "React Hooks", "TypeScript", "JavaScript", "Redux Toolkit", "React Hook Form", "Zod", "Jest", "Axios", "REST APIs"],
   background: ["Quality Assurance", "UX Design"],
   learning: ["Software Architecture", "Generative AI"]
 };
