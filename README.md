@@ -1,25 +1,22 @@
-# Olá, eu sou a Ariane! :D
+# Olá! Eu sou a Ariane 👋
 
-Desenvolvedora Front-End Sênior, atuando principalmente com **React, TypeScript e JavaScript**.
+### Front-End Developer | React • TypeScript • JavaScript
 
-Tenho experiência com desenvolvimento de aplicações web, regras de negócio, formulários, validações, gerenciamento de estado e integração com APIs.
+Gosto de transformar regras de negócio e necessidades de produto em interfaces claras, funcionais e agradáveis de usar.
 
-Também tenho experiência anterior em **Qualidade de Software** e formação complementar em **UX Design**.
+Hoje atuo principalmente com React e TypeScript, trabalhando com formulários, validações, gerenciamento de estado e integração com APIs.
 
-### 🛠️ Tecnologias
-React • TypeScript • JavaScript • React Hooks • Redux Toolkit • React Hook Form • Zod • Jest • Axios • Rest API • Git • Azure DevOps
+Também tenho background em Qualidade de Software e UX Design.
 
-### 🤖 Atualmente estudando
-Front-End, Arquitetura de Software e Inteligência Artificial aplicada ao desenvolvimento.
+---
 
-### 📊 GitHub
+## ✨ Um pouco sobre mim
 
-![Ariane Sousa's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ariane011&show_icons=true&theme=aura)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ariane011&layout=compact&theme=aura)
-
-### 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agsousa/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/ariane011)
+```ts
+const ariane = {
+  role: "Front-End Developer",
+  focus: ["React", "TypeScript", "User Experience"],
+  stack: ["Redux Toolkit", "React Hook Form", "Zod", "Jest"],
+  background: ["Quality Assurance", "UX Design"],
+  learning: ["Software Architecture", "Generative AI"]
+};
