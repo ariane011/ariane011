@@ -2,7 +2,7 @@
 
 ### Front-End Developer | React • TypeScript • JavaScript
 
-Gosto de transformar regras de negócio e necessidades de produto em interfaces claras, funcionais e agradáveis de usar.
+Sou desenvolvedora Front-End e gosto de criar interfaces claras, funcionais e agradáveis de usar.
 
 Hoje atuo principalmente com React e TypeScript, trabalhando com formulários, validações, gerenciamento de estado e integração com APIs.
 
